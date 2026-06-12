@@ -226,6 +226,6 @@ python "Smart Agriculture/Final/publisher.py"
 
 # Author
 
-Nama: [Isi Nama Anda]
+Nama: Faaza Fauzan Adzim
 Mata Kuliah: Cyber Physical System
 Topik: Implementasi MQTT dengan Python dan Mosquitto Broker
